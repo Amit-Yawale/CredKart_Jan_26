@@ -214,7 +214,7 @@ class Test_User_Profile :
             assert False, "User Registration Fail"
         self.log.info(f"Testcase test_Credkart_registration_003 is completed")
 
-# pytest -v -s -n=auto --html=Html_reports\my_report_28th_jan_2026.html
+# pytest -v -s -n=auto --html=Html_reports\my_report_31st_jan_2026.html
 # pytest -v -s -n=auto --html=Html_reports\my_report_28th_jan_2026.html --alluredir=AllureReports
 
 
